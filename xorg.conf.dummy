@@ -56,6 +56,7 @@ Section "Screen"
     SubSection     "Display"
         Depth       24
         Modes           "1280x1024"
+        Virtual 2048 2048
     EndSubSection
 EndSection
 
@@ -84,5 +85,6 @@ Section "Screen"
     SubSection     "Display"
         Depth       24
         Modes           "1280x1024"
+        Virtual 2048 2048
     EndSubSection
 EndSection
